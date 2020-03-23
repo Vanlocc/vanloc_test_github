@@ -7,7 +7,9 @@ namespace VanLoc_test_github
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
-			Console.WriteLine("test github")
+			Console.WriteLine("test github");
+			Console.WriteLine("Nguyễn Văn Lộc");
+
 		}
 	}
 }
